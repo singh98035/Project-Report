@@ -14,5 +14,24 @@ Yesterday
  at least one query occurs in mind you can say question.
  
 we all don't study the all tables. the query is that what table is important for project?how many tables we will study?
+
+**March-30-2020**
+***Yesterday***, In my Mind a query occur regarding Database Table ,Today I clear the  query and work on that and Understanding those
+table that useful for project.
+ As said by our mentor only **mdl_assign and mdl_course** table is used for understand the databse like *what table store the course related data* and *What table is used for storing the data relate with assignment,quiz and another activity*.
+ for that purpose i can create the users and switch the roles to the users role like teacher,Student,Manager etc.In moodle Dashboard
+ the user have **teacher role** that
+ 
+   1.create the course
+   2.After that add the participants like add the user in the course which role switch to *Student*-- 
+After that i see the data entries stored in tables like course information stored in database table
+As teacher assign the assignments to user(students)
+At the view of student submit the assignment and i see the databse **mdl_assign** table that store the submissions and teacher give the grade shown student view also in the database table like **mdl_assgin_grades.
+In other words, I can say that 1 check the _database activity_ fill entries in the frontend part and see the backend for which table store assignment and course related data stored.
+
+
+  
+ 
+
       
   
