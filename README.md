@@ -29,11 +29,17 @@ As teacher assign the assignments to user(students)
 At the view of student submit the assignment and i see the databse **mdl_assign** table that store the submissions and teacher give the grade shown student view also in the database table like **mdl_assgin_grades**.
 In other words, I can say that 1 check the _database activity_ fill entries in the frontend part and see the backend for which table store assignment and course related data stored.
 
-**March-31-2020**   *No work today*
-
-
-  
+**March-31-2020**   *No work today*--
+### April-01-2020
+Today, Our Respected Mentor Gave the task for our practice like  install game plugin in moodle and check the backend how the tables are created in the database. 
+Have No knowledge about plugin installation than moodle's documention guide installation process.
+Firstly, go to ***site administration***, Open the plugin and Install new Plugin. After the Window Shows the two method to install plugin .
+>1. Download the plugin from moodle's plugin directory
+>2.Choose the zip folder.
+    I am choose the First option. now its directly open moodle official website:-[https://download.moodle.org/](https://download.moodle.org/). After select the plugin than seach the plugin you want to install.
+    After, press on install button the installation process starts in few seconds. 
+  Complete the process and press upgrade moodle than dashboard is open.the game plugin provide more games like sudoku,snakes and ladder.
+  follow the same steps for add the game *Activity* like quiz,assignment.
+  fill the all required fields than add.
+  After adding the game activity. check the backend manully, it automatically creates required table for game plugin.
  
-
-      
-  
