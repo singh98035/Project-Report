@@ -43,12 +43,12 @@ Firstly, go to ***site administration***, Open the plugin and Install new Plugin
   fill the all required fields than add.
   After adding the game activity. check the backend manully, it automatically creates required table for game plugin.
   
- ## April-02-2020.
+ ### April-02-2020.
  Today we tried to create a formula to calculate the attainment, with help of pdf sent by our mentor **Dr.Amit Kamra Sir**. which I found the table which has some data write the course outcomes. But there I found a problem ablout data i.e what that data contains that was not understandable. So after that I ping to our mentor. And also we are today assigned with the work to find the code for assignment in which we can make changes and try to add a new column at frontend. But couldn't find the code and instead that we find the code for certificate form https://docs.moodle.org/dev/Activity_modules. We try to find the code for assignment.
  
- ## April-03-2020.
+ ### April-03-2020.
   Our mentor gave the work to create a flowchart or DFD what we are doing in the project. *Today* we together make a flowchart.
- # FlowChart
+ **FlowChart**
 ![flowchart image](https://github.com/singh98035/project-SDLC/blob/master/Untitled%20Diagram.jpg).
 
 > **1.**
