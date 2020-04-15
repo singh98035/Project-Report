@@ -67,7 +67,33 @@ Firstly, go to ***site administration***, Open the plugin and Install new Plugin
     Display attainment at moodle or another page. <br />
   >**8.**
     End <br />
-    After that I tried to understand the source code of Assignment Plugin. I understand the liitle bit code. i try to understand more code.
+    After that I tried to understand the source code of Assignment Plugin. I understand the liitle bit code. i try to understand more code.<br />
+### April-16-2020.
+
+***Firstly*** we define the ***Competence*** <br />
+competency is a bundle of **Knowledge**, **skills** , **attitude** and habits that allow an  employee to perform effectively. <br />
+**Competency Framework**<br />
+It is a pre-defined competencies an employee just acquire programmatically over time.A ***Competency Framework*** is meant to ensure Alignment between ***What The employee should be able to do*** and ***What The organization should be doing***.<br />
+It is necessary for.<br />
+1.More Precision-targeted training. <br />
+2.Brighter Promotional prospects
+3.Clearer carrer - Pathing
+4.Deeper Sense of contribution
+For Example:-I suppose am a HR.i've learned from my co-worker in the other department that they have issue with their **Training**,**Promotional Prospects**,**Career Paths** and **Sense** of countribution.This could mean that there is an issue of alignment within the organization. could this mean that those employees aren't fully fit for purpose.
+<br />
+Competency framework can help resolve this issue of alignment.it is make the employee fit-for purpose.
+**There are few steps for developing a competency framework**<br />
+1.Job Analysis and Task Analysis. <br />
+2.Framework Design. <br />
+3.Instructional Material Development. <br />
+4.Implementation. <br />
+5.Outcome evalution. <br />
+>If we succeed in developing a ***Competencey Framework*** together then, we can address the issue of alignment.
+<br />
+in moodle we see the competence in the site administration.
+in which we can check add the famework and select the framework for activity like assignment etc.
+
+
     
   
 
