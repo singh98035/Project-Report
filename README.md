@@ -74,7 +74,7 @@ Firstly, go to ***site administration***, Open the plugin and Install new Plugin
 competency is a bundle of **Knowledge**, **skills** , **attitude** and habits that allow an  employee to perform effectively. <br />
 **Competency Framework**<br />
 It is a pre-defined competencies an employee just acquire programmatically over time.A ***Competency Framework*** is meant to ensure Alignment between ***What The employee should be able to do*** and ***What The organization should be doing***.<br />
-It is necessary for.<br />
+It is necessary for. <br />
 1.More Precision-targeted training. <br />
 2.Brighter Promotional prospects
 3.Clearer carrer - Pathing
@@ -93,7 +93,15 @@ Competency framework can help resolve this issue of alignment.it is make the emp
 in moodle we see the competence in the site administration.
 in which we can check add the famework and select the framework for activity like assignment etc.
 
+### April-16-2020.
 
+Today, we studied in brief about competence and our provide some link related to moodle competence framework. <br />
+***Firstly we have the link about competence***.[ https://docs.moodle.org/38/en/Competencies]( https://docs.moodle.org/38/en/Competencies). <br />
+Which we study about competence, Competencies describe the level of understanding or proficiency of a learner in certain subject-related skills. Competency-based education (CBE), CBE for admins, teacher and student.
+>In which we study about **How to setup it?** how we can enable this ?. after we study about outcome on this link [https://docs.moodle.org/38/en/Outcomes](https://docs.moodle.org/38/en/Outcomes) which we In simple terms outcomes are similar to sub components of a grade. A grade is an assessment of overall performance that may include tests, participation, attendance and projects. Outcomes assess specific levels of knowledge through a series of statements, that maybe coded with numbers or letters. Thus an overall grade can be given for a course, along with statements about specific competencies in the form of outcomes. <br />
+we studied that administration can setup framework then can add competencies to them. In this administrator can create the learning plan, add competencies to that plan and then assign to particular selected individual or to whole organisation. <br />
+After this i can study about competency framework. the teacher add the competence framework and competence in course and activity.teacher views the breakdown from the **site Administration** and rate the competence rate like competent , just competent, excellent.
+> we are adding competencies to ***competence Framework*** we can add competence  like manully,import and export. It support .csv file. 
     
   
 
