@@ -121,4 +121,5 @@ sorry for last two or three days, in two days,introduction about development in 
 like what are the required skills and which language used in moodle 
 in plugin development we. study types of plugin like activity module,related to Assignment module ,related to Quiz module and all module reports plugin. trying to understand the code of activity module in /mod directory and file structure introduction about blocks development, themes, course format. 
   
-
+### April-23-2020.
+Nothing done today.
