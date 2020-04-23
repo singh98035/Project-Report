@@ -102,6 +102,23 @@ Which we study about competence, Competencies describe the level of understandin
 we studied that administration can setup framework then can add competencies to them. In this administrator can create the learning plan, add competencies to that plan and then assign to particular selected individual or to whole organisation. <br />
 After this i can study about competency framework. the teacher add the competence framework and competence in course and activity.teacher views the breakdown from the **site Administration** and rate the competence rate like competent , just competent, excellent.
 > we are adding competencies to ***competence Framework*** we can add competence  like manully,import and export. It support .csv file. 
-    
+### April-17-2020.
+Competency: It describes the desired knowledge, skills and behaviour of an individual graduating from course. Competencies generally defines the applied skills and knowledge that enable the individual to successfully perform in professional and educational contexts. For the educational point these are added by the teacher to the particular course or to particular activity.
+
+Course Outcome: This is the specific statement that describes exactly what the student will able to gain or do in measurable way. There may be more than one outcome defined for given competency. These are the basics for an assessment program that focuses on what student should be able to do after compeletion of the course.
+
+Lets take example of our course Computer Architecture And Microprocessor: In this teacher has defined competencies and course outcomes for the students.
+
+Let's take that competency is Self Awareness: It describes the student leaders develop thorough understanding of themselves across multiple dimensions. Through different activities, they recignise how their leadership practice and beliefs are influenced by their values and how there behaviour affect their ability to lead.
+
+Course Outcome: The students which demonstrate competency in self-awareness can define their personal values, describe their leadership, strenghts and limitations, evaluate and reflect on their actions and modify as necessary.
+### April-18-2020.
+Calculation of attainment for practice session. which we study about grade report as well as outcome report.
+### April-19,20-2020
+complete The spreadsheet of all tables related to attainment.
+### April-21,22-2020.
+sorry for last two or three days, in two days,introduction about development in moodle.
+like what are the required skills and which language used in moodle 
+in plugin development we. study types of plugin like activity module,related to Assignment module ,related to Quiz module and all module reports plugin. trying to understand the code of activity module in /mod directory and file structure introduction about blocks development, themes, course format. 
   
 
